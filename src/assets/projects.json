@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Portfolio Website",
+    "description": [
+      "Personal portfolio website using React, Tailwind CSS, and DaisyUI.",
+      "Responsive design ensuring compatibility across different devices.",
+      "Integration with GitHub and LinkedIn for showcasing projects and professional profiles.",
+      "Utilizes modern web development tools and practices for a scalable and maintainable codebase."
+    ],
+    "github": "https://github.com/yourusername/portfolio-website",
+    "website": "https://yourportfolio.com",
+    "image": "https://via.placeholder.com/150"
+  }
+]
