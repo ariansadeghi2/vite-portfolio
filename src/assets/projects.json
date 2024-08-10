@@ -5,10 +5,11 @@
       "Personal portfolio website using React, Tailwind CSS, and DaisyUI.",
       "Responsive design ensuring compatibility across different devices.",
       "Integration with GitHub and LinkedIn for showcasing projects and professional profiles.",
-      "Utilizes modern web development tools and practices for a scalable and maintainable codebase."
+      "Utilizes modern web development tools and practices for a scalable and maintainable codebase.",
+      "Deployed and hosted using AWS Amplify for seamless CI/CD and secure, scalable hosting."
     ],
-    "github": "https://github.com/yourusername/portfolio-website",
-    "website": "https://yourportfolio.com",
-    "image": "https://via.placeholder.com/150"
+    "github": "https://github.com/ariansadeghi2/vite-portfolio",
+    "website": "https://ariancodes.com",
+    "image": "https://s6.imgcdn.dev/beShw.png"
   }
 ]

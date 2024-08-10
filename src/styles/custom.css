@@ -1,0 +1,11 @@
+/* Default (Light Mode) */
+.icon {
+    filter: none;
+  }
+  
+  /* Dark Mode */
+  @media (prefers-color-scheme: dark) {
+    .icon {
+      filter: invert(1);
+    }
+  }
