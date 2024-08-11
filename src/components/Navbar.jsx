@@ -12,7 +12,7 @@ const Navbar = () => {
       <div className="container mx-auto flex justify-between items-center px-4 py-2">
         {/* Navbar title */}
         <div className="navbar-start">
-          <a className="text-2xl font-bold text-gray-400">Arian's Portfolio</a>
+          <a href="/" className="text-2xl font-bold text-gray-400">Arian's Portfolio</a>
         </div>
         {/* Desktop Navbar links */}
         <div className="navbar-end hidden lg:flex flex-1 justify-end">
