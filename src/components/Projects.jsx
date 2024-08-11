@@ -29,10 +29,10 @@ const Projects = () => {
                 </ul>
                 <div className="card-actions justify-end mt-4">
                   <a href={project.github} target="_blank" rel="noopener noreferrer" className="mx-2">
-                    <img src={githubIcon} alt="GitHub" className="w-6 h-6 filter invert"/>
+                    <img src={githubIcon} alt="GitHub" className="w-6 h-6 icon"/>
                   </a>
                   <a href={project.website} target="_blank" rel="noopener noreferrer" className="mx-2">
-                    <img src={websiteIcon} alt="Website" className="w-6 h-6 filter invert"/>
+                    <img src={websiteIcon} alt="Website" className="w-6 h-6 icon"/>
                   </a>
                 </div>
               </div>
