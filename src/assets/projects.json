@@ -11,5 +11,16 @@
     "github": "https://github.com/ariansadeghi2/vite-portfolio",
     "website": "https://ariancodes.com",
     "image": "https://s6.imgcdn.dev/beShw.png"
+  },
+  {
+    "name": "Admission System Web Application",
+    "description": [
+      "Developed a web application for managing admissions with permission-based login using Spring Security.",
+      "Implemented backend functionalities with Spring Boot and Hibernate, ensuring efficient data management.",
+      "Designed the frontend using HTML, CSS, JavaScript, and Thymeleaf, providing an interactive and user-friendly interface.",
+      "Utilized PostgreSQL to store data for students, teachers, and courses, enabling robust data handling and security."
+    ],
+    "github": "https://github.com/ariansadeghi2/AdmissionSystem",
+    "image": "https://raw.githubusercontent.com/ariansadeghi2/AdmissionSystem/main/etcs/course.PNG"
   }
 ]
